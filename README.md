@@ -1,7 +1,7 @@
 # Virtual Pet Simulator
 
 ## Names of Pair Working on This Fork
-<Enter Name 1 Here>
+William Lutterbie - lutterwb
 
 <Enter Name 2 Here>
 
