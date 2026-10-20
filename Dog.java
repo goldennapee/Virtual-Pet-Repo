@@ -24,4 +24,11 @@ public class Dog extends Pet {
 	public void fetch() {
 		System.out.println(getName() + " fetches the ball!");
 	}
+
+	/**
+	 * Prints the eat action of the dog.
+	 */
+	public void eat() {
+		System.out.println(getName() + " eats their Kibble!");
+	}
 }
